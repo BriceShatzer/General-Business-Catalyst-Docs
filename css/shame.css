@@ -1,0 +1,7 @@
+/* quick fixes that should be integrated into the main less/css files but aren't yet... */
+@media screen and (max-width:640px){
+	.navbar-text{
+		position:absolute;
+		left:-9999px;
+	}
+}
